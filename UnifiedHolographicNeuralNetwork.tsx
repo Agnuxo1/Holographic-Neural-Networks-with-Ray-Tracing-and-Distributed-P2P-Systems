@@ -383,7 +383,7 @@ useEffect(() => {
   setHnn(newHnn)
 
   // Initialize LLM model
-  const hf = new HfInference("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")
+  const hf = new HfInference("---API---")
   setLLMModel(hf)
   setIsLLMActive(true)
 
