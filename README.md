@@ -141,8 +141,16 @@ The proposed system significantly improves the performance of large-scale neural
 ## Quick Start
 
 Experience the Holographic Neural Network in action:
+
+
+
 [![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://b_1eghmy2q0il.v0.build/)
+
+
+
+
 [![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/BoU4fX8jJ02?b=b_1eGhMy2q0Il)
+
 
 
 
