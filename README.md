@@ -160,6 +160,15 @@ This paper introduces a novel approach to neural computation, combining holograp
 
 ---
 
+
+![Captura de pantalla -2024-10-19 09-48-48](https://github.com/user-attachments/assets/78cd1373-3d4d-4a77-9b0f-274911c0fc34)
+
+
+
+![Captura de pantalla -2024-10-19 09-51-04](https://github.com/user-attachments/assets/b6185437-6180-4b17-a817-741b51294a0a)
+
+
+
 ### References
 
 1. Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual Web search engine. *Computer Networks and ISDN Systems, 30*(1-7), 107-117.
